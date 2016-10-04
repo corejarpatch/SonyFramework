@@ -1,9 +1,9 @@
-id=template
-name=Template Module
+id=SonyFramework
+name=Sony Framework
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
-support=http://forum.xda-developers.com/showthread.php?t=3432382
-donate=http://topjohnwu.github.io/donate
+author=Seyaru Module by eric9401 work
+description=For non Sony-Users contains Sony's Framework
+support=http://forum.xda-developers.com/android/apps-games/5-0-playstation-remote-play-android-t3466339
+donate=http://forum.xda-developers.com/donatetome.php?u=1917665
 cacheModule=false
